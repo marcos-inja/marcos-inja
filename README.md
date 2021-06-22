@@ -1,4 +1,4 @@
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-inja&theme=onedark">
 
 <!---
 marcos-inja/marcos-inja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
