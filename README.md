@@ -1,4 +1,4 @@
-# Hi <img src="hi.gif" width="40px">, I'm Marcos!
+# <p align="center">Hi <img src="hi.gif" width="40px">, I'm Marcos!</p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
