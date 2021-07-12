@@ -1,14 +1,24 @@
-# Hi <img src="hi.gif" width="40px">, I'm Marcos!
+# Hi <img src="hi.gif" width="35px">, I'm Marcos!
 
+## 💽 My skills
+
+![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-%230095D5.svg?&style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+---
+## 😎 Github stats
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
        width="500"
       src="https://github-readme-stats.vercel.app/api?username=marcos-inja&count_private=true&show_icons=true&custom_title=Github%20Status&theme=algolia&layout=compact"
     />
     <br>
-    <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-inja&theme=algolia&layout=compact&custom_title=Most%20Used">
-  </a>
+    <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-inja&theme=algolia&layout=compact&custom_title=Most%20Used"/>
 </p>
 
 <!---
