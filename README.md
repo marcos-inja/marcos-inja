@@ -1,4 +1,4 @@
-# Hi <img src="hi.gif" width="35px">, I'm Marcos!
+# <p align="center">Hi <img src="hi.gif" width="35px">, I'm Marcos!</p>
 
 ## 💽 My skills
 
