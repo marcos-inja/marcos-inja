@@ -1,4 +1,4 @@
-# <p align="center">Hi <img src="hi.gif" width="35px">, I'm Marcos!</p>
+# <p align="center">Hi <img src="gifs/hi.gif" width="35px">, I'm Marcos!</p>
 
 ## 💽 My skills
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -10,7 +10,7 @@
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 
-## 😎 Github stats
+## <img src="gifs/haha.gif" width="25px"> Github stats
 <p align="center">
     <img
        width="500"
