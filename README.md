@@ -2,6 +2,39 @@
 
 **Welcome to my page!**
 
+<img style="border-radius:10px" src="imgs/header.png"/> 
+
+## Who am I
+
+```py
+class WhoAmI:
+	user = 'Marcos Vas'
+   	current_edu = "Instituto Federal de Alagoas - IFAL"
+   	hobbies = [
+   			'Listen to music',
+   			'Watching Anime',
+            'Analyze data hehe',
+   			'Reading Cultivation Novels',
+            'Waste time on youtube',
+   			'Wake up at midnight to solve that BUG...'
+   		]
+   
+   def getCity():
+   	  return ArapiracaAlagoas()
+   
+   def Ambitions():
+      LearnEnglish()
+      LearnVue()
+      LearnReact()
+      LearnDjango()
+      LearnFlutter()
+      LearnPhp()
+      ReadingFullNovelsErGen()
+      MyNovelWebsite()
+      # A lot more abyss here... hahaha
+   
+```
+
 ## 💽 My skills
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
