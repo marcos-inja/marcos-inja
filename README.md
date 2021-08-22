@@ -1,6 +1,6 @@
 # <p align="center">Hi <img src="gifs/hi.gif" width="35px">, I'm Marcos!</p>
 
-**Welcome to my page!**
+**Welcome to my profile!**
 
 <img style="border-radius:10px" src="imgs/header.png"/> 
 
