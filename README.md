@@ -13,9 +13,9 @@ class WhoAmI:
    	hobbies = [
    			'Listen to music',
    			'Watching Anime',
-            'Analyze data hehe',
+            		'Analyze data hehe',
    			'Reading Cultivation Novels',
-            'Waste time on youtube',
+            		'Waste time on youtube',
    			'Wake up at midnight to solve that BUG...'
    		]
    
