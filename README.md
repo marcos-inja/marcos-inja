@@ -11,13 +11,13 @@ class WhoAmI:
 	user = 'Marcos Vas'
    	current_edu = "Instituto Federal de Alagoas - IFAL"
    	hobbies = [
-   			'Listen to music',
-   			'Watching Anime',
-            		'Analyze data hehe',
-   			'Reading Cultivation Novels',
-            		'Waste time on youtube',
-   			'Wake up at midnight to solve that BUG...'
-   		]
+		      'Listen to music',
+	       	      'Watching Anime',
+		      'Analyze data hehe',
+		      'Reading Cultivation Novels',
+		      'Waste time on youtube',
+		      'Wake up at midnight to solve that BUG...'
+   		  ]
    
    def getCity():
    	return ArapiracaAlagoas()
