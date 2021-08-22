@@ -21,7 +21,8 @@
     <br>
     <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-inja&theme=algolia&layout=compact&custom_title=Most%20Used&border_radius=8"/>
 </p>
-
+---
+![](https://komarev.com/ghpvc/?username=marcos-inja&color=blue&style=flat)
 <!---
 marcos-inja/marcos-inja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
