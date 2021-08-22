@@ -9,7 +9,7 @@
 ```py
 class WhoAmI:
 	user = 'Marcos Vas'
-   	current_edu = "Instituto Federal de Alagoas - IFAL"
+   	current_edu = 'Instituto Federal de Alagoas - IFAL'
    	hobbies = [
 		      'Listen to music',
 	       	      'Watching Anime',
