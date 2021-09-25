@@ -52,7 +52,7 @@ class WhoAmI:
       src="https://github-readme-stats.vercel.app/api?username=marcos-inja&count_private=true&show_icons=true&custom_title=Github&theme=algolia&layout=compact&border_radius=8"
     />
     <br>
-    <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-inja&theme=algolia&layout=compact&custom_title=Most%20Used&border_radius=8"/>
+    <img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=marcos-inja&count_private=true&theme=algolia&layout=compact&border_radius=8"/>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=marcos-inja&color=blue&style=flat)
