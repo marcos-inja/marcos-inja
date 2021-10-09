@@ -2,7 +2,7 @@
 
 **Welcome to my profile!**
 
-<img style="border-radius:10px" src="imgs/header.png"/> 
+<img src="imgs/header.png"/> 
 
 <!-- 
 ## 🤔 Who am I
@@ -36,6 +36,8 @@ class WhoAmI:
 ```
  -->
 ## ⚙️ My skills
+<!--<img align="right" src="https://img.devrant.com/devrant/rant/r_462432_ZzKQZ.gif" alt="gif">-->
+
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -44,6 +46,8 @@ class WhoAmI:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+
+
 
 ## <img src="gifs/haha.gif" width="25px"> Github stats
 <p align="center">
