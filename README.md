@@ -4,8 +4,8 @@
 
 <img style="border-radius:10px" src="imgs/header.png"/> 
 
+<!-- 
 ## 🤔 Who am I
-
 ```py
 class WhoAmI:
 	user = 'Marcos Vas'
@@ -34,7 +34,7 @@ class WhoAmI:
       # A lot more abyss here... hahaha
    
 ```
-
+ -->
 ## ⚙️ My skills
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
@@ -48,11 +48,10 @@ class WhoAmI:
 ## <img src="gifs/haha.gif" width="25px"> Github stats
 <p align="center">
     <img
-       width="500"
+       height="200px"
       src="https://github-readme-stats.vercel.app/api?username=marcos-inja&count_private=true&show_icons=true&custom_title=Github&theme=algolia&layout=compact&border_radius=8"
     />
-    <br>
-    <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-inja&count_private=true&theme=algolia&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-inja&count_private=true&theme=algolia&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=marcos-inja&color=blue&style=flat)
