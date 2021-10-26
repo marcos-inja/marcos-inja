@@ -31,7 +31,7 @@
 <img alt="eMail" src="https://img.shields.io/badge/marcosvaas@gmail.com-3478c1?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<img alt="views profile" width="130px" src="https://komarev.com/ghpvc/?username=marcos-inja&color=blue&style=flat-square"/>
+<img alt="views profile" width="110px" src="https://komarev.com/ghpvc/?username=marcos-inja&color=blue&style=flat-square"/>
 
 <!---
 marcos-inja/marcos-inja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
