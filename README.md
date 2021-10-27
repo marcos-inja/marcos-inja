@@ -14,6 +14,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&Color=c95410)
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch](https://img.shields.io/badge/Arch%20Linux-0B2541?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 
 
@@ -28,7 +30,7 @@
 ## Contact me
 
 <a href="mailto:marcosvaas@gmail.com-">
-<img alt="eMail" src="https://img.shields.io/badge/marcosvaas@gmail.com-3478c1?style=for-the-badge&logo=gmail&logoColor=white" />
+<img alt="eMail" src="https://img.shields.io/badge/marcosvaas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <!-- <img alt="views profile" width="110px" src="https://komarev.com/ghpvc/?username=marcos-inja&color=blue&style=flat-square"/>
