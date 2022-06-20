@@ -1,4 +1,4 @@
-# <p align="center">Hi <img src="gifs/hi.gif" width="35px">, I'm Marcos!</p>
+# <p align="center">Hi <img src="gifs/hi.gif" width="32">, I'm Marcos!</p>
 
 **Welcome to my profile!**
 
@@ -40,7 +40,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## <img src="gifs/haha.gif" width="25px"> Github stats
+## <img src="gifs/haha.gif" width="25"> Github stats
 
 <p align="center">
     <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=marcos-inja&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
