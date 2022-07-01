@@ -3,6 +3,9 @@
 **Welcome to my profile!**
 
 <img alt="image header" src="imgs/header.png"/> 
+<p align="center">
+<img alt="image header" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcos-inja&theme=monokai"/> 
+</p>
 
 <!-- ## Contact me -->
 ## 📫 How to reach me:
