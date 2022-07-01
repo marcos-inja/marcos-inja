@@ -3,9 +3,10 @@
 **Welcome to my profile!**
 
 <img alt="image header" src="imgs/header.png"/> 
-<p align="center">
-<img alt="image header" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcos-inja&theme=monokai"/> 
-</p>
+
+<img alt="most used languages" width="100%" src="https://github-profile-trophy.vercel.app/?username=marcos-inja&theme=onestar&column=8" />
+
+<!--<img alt="image header" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcos-inja&theme=monokai"/> -->
 
 <!-- ## Contact me -->
 ## 📫 How to reach me:
@@ -58,11 +59,7 @@
     <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=marcos-inja&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
     /> <br>
     <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-inja&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c,c++,c-make,markdown"/>
-    <br>
-    <img alt="most used languages" width="500px" src="https://github-profile-trophy.vercel.app/?username=marcos-inja&theme=onestar&column=3" />
-    <br>
 </p>
-
 
 <!-- <img alt="views profile" width="110px" src="https://komarev.com/ghpvc/?username=marcos-inja&color=blue&style=flat-square"/>
  -->
