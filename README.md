@@ -6,9 +6,6 @@
 
 <img alt="most used languages" width="100%" src="https://github-profile-trophy.vercel.app/?username=marcos-inja&theme=onestar&column=8" />
 
-<!--<img alt="image header" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcos-inja&theme=monokai"/> -->
-
-<!-- ## Contact me -->
 ## 📫 How to reach me:
 
 <a href="mailto:marcosvaas@gmail.com">
@@ -48,8 +45,6 @@
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 
-
-<!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
 ### 📚 Learning
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -63,10 +58,3 @@
     /> <br>
     <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-inja&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c,c++,c-make,markdown"/>
 </p>
-
-<!-- <img alt="views profile" width="110px" src="https://komarev.com/ghpvc/?username=marcos-inja&color=blue&style=flat-square"/>
- -->
-<!---
-marcos-inja/marcos-inja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
