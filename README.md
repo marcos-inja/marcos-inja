@@ -11,9 +11,11 @@
 <!-- ## Contact me -->
 ## 📫 How to reach me:
 
-<a href="mailto:marcosvaas@gmail.com-">
-<img alt="eMail" src="https://img.shields.io/badge/marcosvaas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-[Linkedin](https://img.shields.io/badge/Marcos%20Vas-0e76a8?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/marcos-santos-a99338186/)
+<a href="mailto:marcosvaas@gmail.com">
+    <img alt="eMail" src="https://img.shields.io/badge/marcosvaas@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/marcos-santos-a99338186/">
+    <img src="https://img.shields.io/badge/Marcos%20Vas-0e76a8?style=for-the-badge&logo=Linkedin" />
 </a>
 
 ## ⚙️ My skills
