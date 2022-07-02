@@ -1,4 +1,4 @@
-# <p align="center">Hi <img src="gifs/hi.gif" width="32">, I'm Marcos!</p>
+# <p align="center">Hi <img src="gifs/hi.gif" width="32">, I'm Marcos, and programming is my passion</p>
 
 **Welcome to my profile!**
 
@@ -46,10 +46,10 @@
 ![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 
 ### 📚 Learning
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus&logoColor=fff)
-
 
 ## <img src="gifs/haha.gif" width="25"> Github stats
 
