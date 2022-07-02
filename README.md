@@ -1,8 +1,6 @@
-# <p align="center">Hi <img src="gifs/hi.gif" width="32">, I'm Marcos, and programming is my passion</p>
-
-**Welcome to my profile!**
-
 <img alt="image header" src="imgs/header.png"/> 
+
+# <p align="center">Hi <img src="gifs/hi.gif" width="32">, I'm Marcos, and programming is my passion</p>
 
 <img alt="most used languages" width="100%" src="https://github-profile-trophy.vercel.app/?username=marcos-inja&theme=onestar&column=8" />
 
