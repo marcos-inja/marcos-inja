@@ -47,6 +47,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus&logoColor=fff)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## <img src="gifs/haha.gif" width="25"> Github stats
 
