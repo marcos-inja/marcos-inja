@@ -57,4 +57,3 @@
     />
     <img alt="most used languages" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-inja&count_private=true&theme=algolia&bg_color=0,130F40,000000&custom_title=Languages&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c,c++,c-make,markdown"/>
 </p>
-2022
