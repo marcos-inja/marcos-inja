@@ -3,7 +3,7 @@
 
 <p align='justify'>
     I'm an enthusiastic programmer working as a fullstack developer, currently working at <a href='https://github.com/zucklink'>zucklink</a>. I'm passionate about coding to make people's daily life more easier. I have been learning new things since I got acquainted with programming.<br>
-    Writing readable & reusable code are my first priorities. I love to do webscraping, some of my projects being about it. Besides open source I really like linux!
+    Writing readable & reusable code are my first priorities. I love to do webscraping, some of my projects being about it. I really like open source!
 </p>
 <p align='center'>
 <img src='https://streak-stats.demolab.com?user=marcos-inja&theme=github-dark-blue&hide_border=true'/>
