@@ -2,9 +2,9 @@
 ## Marcos Vas  <img src='https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif' width='20px' alt='Assalamu Alaikum'>
 
 <p align='justify'>
-    I'm an enthusiastic programmer working as a fullstack developer, currently working at <a href='https://github.com/zucklink'>zucklink</a>. I'm passionate about coding to make people's daily life more easier. I have been learning new things since I got acquainted with programming.<br>
+    I'm an enthusiastic programmer, currently working at <a href='https://github.com/zucklink'>zucklink</a>. I'm passionate about coding to make people's daily life more easier. I have been learning new things since I got acquainted with programming.<br>
     Writing readable & reusable code are my first priorities. I love to do webscraping, some of my projects being about it. I really like open source!
-</p>
+</p>working as developer
 <p align='center'>
 <img src='https://streak-stats.demolab.com?user=marcos-inja&theme=github-dark-blue&hide_border=true'/>
     <a href='https://github.com/marcos-inja?tab=repositories&sort=stargazers'>
