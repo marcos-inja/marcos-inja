@@ -2,7 +2,7 @@
 ## Marcos Vas  <img src='https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif' width='20px' alt='Assalamu Alaikum'>
 
 <p align='justify'>
-    I'm an enthusiastic programmer, currently working at <a href='https://github.com/zucklink'>zucklink</a>. I'm passionate about coding to make people's daily life more easier. I have been learning new things since I got acquainted with programming.<br>
+    I'm an enthusiastic programmer, currently working at <a href='https://github.com/zucklink'>Compay Z</a>. I'm passionate about coding to make people's daily life more easier. I have been learning new things since I got acquainted with programming.<br>
     Writing readable & reusable code are my first priorities. I love to do webscraping, some of my projects being about it. I really like open source!
 </p>working as developer
 <p align='center'>
@@ -15,7 +15,7 @@
         <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/marcos-inja?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
         <br>
     </a>
-    <a href='https://www.linkedin.com/in/marcos-santos-a99338186' target='_blank'>
+    <a href='https://www.linkedin.com/in/marcosvas' target='_blank'>
         <img src='https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'/>
     </a>
     <a href='mailto:marcosvaas@gmail.com' target='_blank'>
