@@ -4,7 +4,10 @@
 <p align='justify'>
     I'm an enthusiastic programmer, currently working at <a href='https://github.com/zucklink'>Compay Z</a>. I'm passionate about coding to make people's daily life more easier. I have been learning new things since I got acquainted with programming.<br>
     Writing readable & reusable code are my first priorities. I love to do webscraping, some of my projects being about it. I really like open source!
-</p>working as developer
+</p>
+
+**Working as developer**
+
 <p align='center'>
 <img src='https://streak-stats.demolab.com?user=marcos-inja&theme=github-dark-blue&hide_border=true'/>
     <a href='https://github.com/marcos-inja?tab=repositories&sort=stargazers'>
