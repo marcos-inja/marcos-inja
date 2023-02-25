@@ -1,5 +1,5 @@
 ![Slide 16_9 - 1](https://user-images.githubusercontent.com/76446913/190461055-a83df5bb-8451-4125-ad39-e436eaeccc6c.png)
-## Marcos Vas  <img src='https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif' width='20px' alt='Assalamu Alaikum'>
+## Marcos Vas  <img src='https://storage.googleapis.com/deleplace-sandbox/2019/go-gcf/gopher-dance-long-3x-sign.gif' width='20px' alt='Assalamu Alaikum'>
 
 <p align='justify'>
     I'm an enthusiastic programmer, currently working at <a href='https://github.com/zucklink'>Compay Z</a>. I'm passionate about coding to make people's daily life more easier. I have been learning new things since I got acquainted with programming.<br>
