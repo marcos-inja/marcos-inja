@@ -1,11 +1,11 @@
 ## About Me  <img src='https://storage.googleapis.com/deleplace-sandbox/2019/go-gcf/gopher-dance-long-3x-sign.gif' width='20px' alt='Assalamu Alaikum'>
 
 <p align='justify'>
-    I'm an enthusiastic programmer. I'm passionate about coding to make people's daily life more easier. I have been learning new things since I got acquainted with programming.<br>
-    Writing readable & reusable code are my first priorities. I love to do webscraping, some of my projects being about it. I really like open source!
+    I’m a software developer focused on building practical solutions that make people’s daily lives easier. Since I started programming, I’ve maintained a steady commitment to learning and improving.<br>
+    Writing clean, readable, and reusable code is a priority for me. I have experience with web scraping and value collaborating on open source projects.
 </p>
 
-**Working as developer**
+**Currently working as a developer**
 
 <p align='center'>
 <img src='https://streak-stats.demolab.com?user=marcos-inja&theme=github-dark-blue&hide_border=true'/>
@@ -25,7 +25,7 @@
     </a>
 </p>
 
-### **OPEN SOURCE CONTRIBUTION**
-- ❤️ I love to do Contribution on Open Source Projects.
-- 👨‍💻 Collaborated on the open source project [DadosJusBr](https://github.com/dadosjusbr)
-- 🐾 Would like to do Contribution & Collaboration on other Open Source Projects.
+### **OPEN SOURCE CONTRIBUTIONS**
+
+* I have collaborated on the [DadosJusBr](https://github.com/dadosjusbr) project.
+* Open to new contributions and partnerships in open source initiatives.
